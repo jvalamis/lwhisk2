@@ -869,7 +869,7 @@ document.addEventListener("DOMContentLoaded", () => {
           
           .service-card {
             max-width: 350px;
-            margin: 0 auto;
+          margin: 0 auto;
           }
         }
       </style>
@@ -934,46 +934,46 @@ document.addEventListener("DOMContentLoaded", () => {
           <p class="section-intro">At Ladle and the Whisk, we curate a unique selection of products and experiences for culinary enthusiasts. Explore our offerings that are designed to inspire creativity in your kitchen.</p>
           <div class="services-container">
             <div class="services-grid">
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="https://images.unsplash.com/photo-1564844536311-de546a28c87d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Kitchen Gadgets">
-                </div>
-                <div class="service-content">
+                <div class="service-card">
+                  <div class="service-img">
+                    <img src="https://images.unsplash.com/photo-1564844536311-de546a28c87d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Kitchen Gadgets">
+                  </div>
+                  <div class="service-content">
                   <h3>Kitchen Gadgets</h3>
-                  <p>Discover innovative tools that make cooking easier and more enjoyable, from specialized utensils to modern appliances.</p>
+                    <p>Discover innovative tools that make cooking easier and more enjoyable, from specialized utensils to modern appliances.</p>
+                  </div>
+                </div>
+                
+                <div class="service-card">
+                  <div class="service-img">
+                    <img src="https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Gourmet Food">
+                  </div>
+                  <div class="service-content">
+                    <h3>Gourmet Food & Mixes</h3>
+                    <p>Elevate your home cooking with our selection of premium spices, sauces, and specialty food mixes inspired by global cuisines.</p>
+                  </div>
+                </div>
+                
+                <div class="service-card">
+                  <div class="service-img">
+                    <img src="https://images.unsplash.com/photo-1523920290228-4f321a939b4c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Teas & Coffee">
+                  </div>
+                  <div class="service-content">
+                    <h3>Teas & Coffees</h3>
+                    <p>Sample our carefully selected teas and coffees from around the world, perfect for pairing with your culinary creations.</p>
+                  </div>
+                </div>
+                
+                <div class="service-card">
+                  <div class="service-img">
+                    <img src="https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Cooking Classes">
+                  </div>
+                  <div class="service-content">
+                    <h3>Cooking Classes</h3>
+                    <p>Join our community events and cooking classes where you can learn new techniques, recipes, and meet fellow food enthusiasts.</p>
+                  </div>
                 </div>
               </div>
-              
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Gourmet Food">
-                </div>
-                <div class="service-content">
-                  <h3>Gourmet Food & Mixes</h3>
-                  <p>Elevate your home cooking with our selection of premium spices, sauces, and specialty food mixes inspired by global cuisines.</p>
-                </div>
-              </div>
-              
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="https://images.unsplash.com/photo-1523920290228-4f321a939b4c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Teas & Coffee">
-                </div>
-                <div class="service-content">
-                  <h3>Teas & Coffees</h3>
-                  <p>Sample our carefully selected teas and coffees from around the world, perfect for pairing with your culinary creations.</p>
-                </div>
-              </div>
-              
-              <div class="service-card">
-                <div class="service-img">
-                  <img src="https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Cooking Classes">
-                </div>
-                <div class="service-content">
-                  <h3>Cooking Classes</h3>
-                  <p>Join our community events and cooking classes where you can learn new techniques, recipes, and meet fellow food enthusiasts.</p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
